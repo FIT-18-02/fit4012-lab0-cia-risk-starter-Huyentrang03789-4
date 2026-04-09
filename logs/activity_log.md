@@ -14,6 +14,6 @@
 - [x] 10:00 - Push repo và kiểm tra link nộp
 
 ## Ghi chú thêm
-- Khó khăn gặp phải:
-- Cách em xử lý:
-- Điều em học được từ bài lab:
+- Khó khăn gặp phải:Gặp rất nhiều khó khăn khi sử dụng các lệnh Git trên CMD, lỗi đường dẫn và chưa hiểu hết quy trình đẩy bài lên GitHub.
+- Cách em xử lý:Kiên trì đọc hướng dẫn, hỏi đáp liên tục để sửa từng lỗi nhỏ và tập gõ lệnh nhiều lần cho quen.
+- Điều em học được từ bài lab:Em đã hiểu rõ mô hình CIA và cách xác định tài sản hệ thống. Tuy chưa thực sự thành thạo GitHub và vẫn còn bỡ ngỡ, nhưng em đã biết cách nộp bài cơ bản qua bảng lệnh CMD.
