@@ -32,8 +32,6 @@
 Thông qua bài Lab 01 này, em đã nắm vững kiến thức về bộ ba CIA: Tính bảo mật, Tính toàn vẹn và Tính sẵn sàng. Việc thực hành trực tiếp giúp em biết cách nhận diện các tài sản quan trọng và các mối đe dọa tiềm tàng đối với hệ thống. Bên cạnh đó, em cũng đã rèn luyện được kỹ năng sử dụng Git và GitHub để quản lý mã nguồn, mặc dù ban đầu còn gặp nhiều khó khăn trong việc xử lý lỗi nhưng em đã dần quen với quy trình commit và push bài.
 
 
-
-
 ## 5. Bonus Flag
 Flag của em:FIT4012{A-C-B-I-C-A}
 
