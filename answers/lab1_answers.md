@@ -29,7 +29,7 @@
 
 
 ## 4. Reflection
-Thông qua bài Lab này, em đã hiểu rõ hơn về mô hình CIA – ba cột trụ cốt lõi của an toàn thông tin. Việc phân tích các tài sản (Assets) giúp em nhận ra rằng không phải mọi dữ liệu đều có giá trị như nhau, từ đó biết cách ưu tiên nguồn lực bảo vệ. Em cũng học được cách nhìn nhận một sự cố dưới góc độ rủi ro, bao gồm việc xác định mối đe dọa và lỗ hổng cụ thể. Những kiến thức này rất quan trọng để em có thể thiết kế các hệ thống phần mềm bảo mật hơn trong tương lai. Cuối cùng, việc thực hành trên GitHub giúp em làm quen với quy trình làm việc chuyên nghiệp của một kỹ sư phần mềm.
+Thông qua bài Lab 01 này, em đã nắm vững kiến thức về bộ ba CIA: Tính bảo mật, Tính toàn vẹn và Tính sẵn sàng. Việc thực hành trực tiếp giúp em biết cách nhận diện các tài sản quan trọng và các mối đe dọa tiềm tàng đối với hệ thống. Bên cạnh đó, em cũng đã rèn luyện được kỹ năng sử dụng Git và GitHub để quản lý mã nguồn, mặc dù ban đầu còn gặp nhiều khó khăn trong việc xử lý lỗi nhưng em đã dần quen với quy trình commit và push bài.
 
 
 
